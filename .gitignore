@@ -1,0 +1,10 @@
+# Chặn tất cả các file trong thư mục
+*
+
+# NHƯNG ngoại trừ các file hoặc thư mục sau:
+!*.c
+!.gitignore
+!README.md
+
+# Nếu bạn có thư mục con chứa code thì bỏ chặn thêm (ví dụ):
+!*/
