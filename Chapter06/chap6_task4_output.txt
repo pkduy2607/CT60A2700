@@ -1,0 +1,2 @@
+Duy,19,Male
+Ha,19,Female

@@ -5,6 +5,8 @@
 !*.c
 !.gitignore
 !README.md
+!*.txt
+!*.csv
 
 # Nếu bạn có thư mục con chứa code thì bỏ chặn thêm (ví dụ):
 !*/
