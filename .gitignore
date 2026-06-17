@@ -7,6 +7,7 @@
 !README.md
 !*.txt
 !*.csv
+!*.h
 
 # Nếu bạn có thư mục con chứa code thì bỏ chặn thêm (ví dụ):
 !*/
