@@ -9,6 +9,7 @@
 !*.csv
 !*.h
 !Chapter08and09/makefile
+!Project/makefile
 
 # Nếu bạn có thư mục con chứa code thì bỏ chặn thêm (ví dụ):
 !*/
